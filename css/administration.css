@@ -1,0 +1,14 @@
+body
+{
+    font-family: 'Comfortaa', cursive;
+}
+
+.logoutButton
+{
+    background-color:#3B7080;
+}
+.customCard
+{
+    border:0px;
+    margin-bottom: 5%;
+}

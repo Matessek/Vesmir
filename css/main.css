@@ -1,0 +1,88 @@
+body{
+    font-family: 'Bahiana', cursive;
+}
+
+#myFooter
+{
+  font-family: sans-serif, 'Helvetica';
+  font-size: 3ch;
+}
+
+.headerText
+{
+    text-decoration: none;
+    color: black;
+    font-size: 65px;
+    padding-left: 40px;
+}
+.navigation
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-size: medium;
+}
+
+.card-link
+{
+  text-align: center;
+  text-decoration: none;
+}
+
+
+.link
+{
+    text-decoration: none;
+    color:black;
+}
+.link:hover
+{
+    color: #3b7080;
+}
+
+
+#left
+{
+
+    font-size: 35px;
+    font-weight: bold;
+}
+#right
+{
+    padding-right: 50px;
+}
+
+#left a
+{
+    display: block;
+    color: black;
+    text-align: center;
+    padding-left: 35px;
+    text-decoration: none;
+}
+#left a:hover
+{
+    display: block;
+    color: #3b7080;
+    text-align: center;
+    padding-left: 35px;
+    text-decoration: none;
+}
+
+.reservationButton
+{
+    background-color: #FCEC52;
+    font-size: 35px;
+    font-weight: bold;
+}
+.newsStyle
+{
+  background-color: white;
+  margin-bottom: 5%;
+}
+
+.newsParagraph
+{
+  font-size:15ch;
+}

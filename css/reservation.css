@@ -1,0 +1,40 @@
+.reservationOuter
+{
+  background-color: white;
+  text-align: center;
+  margin:0 10% 0 10%;
+  font-family: 'Roboto', sans-serif;
+}
+
+.customCard
+{
+    border:0px;
+    margin-bottom: 5%;
+    margin-left: 10%;
+}
+
+h2
+{
+  text-align: center;
+}
+
+.reservationSize
+{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Reservationform
+{
+  font-size:2ch;
+  margin-right: 10%;
+}
+
+.hid-res
+{
+  display: none;
+}
+.datetimepicker-clear-button
+{
+  display:none;
+}
